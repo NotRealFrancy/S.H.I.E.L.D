@@ -1,0 +1,6 @@
+name: SHIELD
+description: Server Hardening and Intrusion Elimination and Defense
+version: 1.0
+api-version: 1.8
+author: NotRealFrancy_
+main: org.github.notrealfrancy.shield.Shield
